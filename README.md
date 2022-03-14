@@ -9,3 +9,6 @@ git push
 
 git repository에서 최신 코드 가져올때
     git pull
+
+git commit 로그 보는거
+    git log
