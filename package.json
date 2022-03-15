@@ -1,0 +1,24 @@
+{
+  "name": "su",
+  "version": "1.0.0",
+  "description": "git add .",
+  "main": "script.js",
+  "dependencies": {
+    "static-server": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sususususua/su.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sususususua/su/issues"
+  },
+  "homepage": "https://github.com/sususususua/su#readme"
+}
